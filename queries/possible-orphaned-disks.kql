@@ -1,0 +1,6 @@
+Resources
+| where type =~ "microsoft.compute/disks"
+| where properties.diskState =~ "Unattached"
+| project name, resourceGroup, location,
+          DiskState = properties.diskState
+| order by name asc
