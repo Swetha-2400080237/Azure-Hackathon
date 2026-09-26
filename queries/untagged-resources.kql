@@ -1,0 +1,4 @@
+Resources
+| where isnull(tags) or isempty(tags)
+| project name, type, resourceGroup, location
+| order by name asc
