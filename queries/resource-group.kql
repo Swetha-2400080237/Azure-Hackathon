@@ -1,0 +1,3 @@
+Resources
+| summarize ResourceCount = count() by resourceGroup
+| order by ResourceCount desc
