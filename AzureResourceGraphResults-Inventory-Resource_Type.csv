@@ -1,0 +1,8 @@
+﻿type,ResourceCount
+"microsoft.resourcegraph/queries",11
+"microsoft.storage/storageaccounts",2
+"microsoft.network/networksecuritygroups",1
+"microsoft.portal/dashboards",1
+"microsoft.network/virtualnetworks",1
+"microsoft.network/networkwatchers",1
+"microsoft.network/routetables",1
