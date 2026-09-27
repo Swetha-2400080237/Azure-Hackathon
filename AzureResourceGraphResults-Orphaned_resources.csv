@@ -1,3 +1,0 @@
-﻿name,type,resourceGroup,location,Associations
-"Hackathon-Sandbox","microsoft.network/routetables","rg-sandbox","centralindia","null"
-"Hackathon-Production","microsoft.network/networksecuritygroups","rg-production","centralindia","null"
